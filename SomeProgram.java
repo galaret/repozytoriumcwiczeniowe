@@ -8,4 +8,7 @@ public class SomeProgram{
 	public void manageTheSatellite(){
 		//TODO implement
 	}
+	public void manageRockets(){
+		//TODO implement
+	}
 }
